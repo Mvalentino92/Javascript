@@ -1,0 +1,45 @@
+<html>
+<body>
+        <style>
+        .text
+	{
+		word-spacing: 20px
+	}
+	</style>
+       	   
+	<script src="RunGame.js"></script>
+	<div id="message">
+		<p id="message_text" class="text">Test Message</p>
+
+		<label for="message_input_full">Enter Full Message</label>
+		<input type="text" id="message_input_full" name="message_input">
+		<input type="button" id="button_message_input_full" name="button_message_input" 
+		       class="button" value="Submit" onclick="isFullCorrect()">
+
+		<br>
+		<label for="message_input_full">Enter Missing Letters</label>
+		<input type="text" id="message_input_condensed" name="message_input">
+		<input type="button" id="button_message_input_condensed" name="button_message_input" 
+		       class="button" value="Submit" onclick="isCondensedCorrect()">
+	</div>
+
+	<br>
+
+	<div id="cryptic">
+		<p id="definition_and_word">Test Definition And Word</p>
+
+		<label for="cryptic_input">Enter Word</label>
+		<input type="text" id="cryptic_input">
+		<input type="button" id="button_cryptic_input" name="button_cryptic_input"
+		       class="button" value="Submit" onclick="isCrypticCorrect()">
+	</div>
+
+	<br>
+
+	<div id="results">
+		<h3 id="round_score"></h3>
+		<h3 id="best_score"></h3>
+		<h2 id="rounds_won"></h2>
+	</div>
+</body>
+</html>
