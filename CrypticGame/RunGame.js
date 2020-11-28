@@ -56,7 +56,7 @@ function get_revealing_order(blanked_message)
 
 
 let isFullCorrect, isCondensedCorrect,isCrypticCorrect;
-let res = fetch('https://raw.githubusercontent.com/Mvalentino92/SQL_Practice/master/test_words.json')
+let res = fetch('https://raw.githubusercontent.com/Mvalentino92/Javascript/main/CrypticGame/test_words.json')
           .then(function(response) { return response.json(); })
 	  .then(function(data)
 	        {
