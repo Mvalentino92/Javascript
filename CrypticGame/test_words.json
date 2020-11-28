@@ -25,9 +25,9 @@
 
 	},
 	{
-		"messages":["Fire is hot",
-			    "Eat if your are hungry",
-			    "Candy tastes good"
+		"messages":["fire is hot",
+			    "eat when hungry",
+			    "candy tastes good"
 			   ]
 	}
 
