@@ -1,0 +1,34 @@
+[
+	{
+		"happy":"Feeling joy or comfort",
+		"lake":"A small to medium sized body of water",
+		"fire":"Burns hot, feeds on oxygen",
+		"ninja":"A sneaky assassin of the night",
+		"spear":"A medium ranged weapon with a point",
+		"bubble":"Floaty and circular, made of water",
+		"mountain":"A large rocky structure",
+		"alligator":"A large reptile with a big bite",
+		"bell":"Makes a delightful noise when used",
+		"highway":"Cars drive on this at high speeds",
+		"ball":"Throw it around, with your friends. Play catch",
+		"teeth":"Use these to chew food",
+		"evil":"Malicious intent, rotten to the core",
+		"elephant":"Largest land mammal on earth",
+		"nightmare":"A terrible dream",
+		"winter":"The cold season when it snows",
+		"nimble":"Quick, fast, flexible, good reactions",
+		"bridge":"Use this to cross to the other side",
+		"steel":"Really hard material, an upgrade from iron",
+		"jogging":"The act of running at a medium speed",
+		"volcano":"They erupt with lava",
+		"jealously":"An emotion that overcomes one who wants something others have"
+
+	},
+	{
+		"messages":["Fire is hot",
+			    "Eat if your are hungry",
+			    "Candy tastes good"
+			   ]
+	}
+
+]
